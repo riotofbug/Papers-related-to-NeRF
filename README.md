@@ -1,3 +1,3 @@
 # Papers-related-to-NeRF
 
-[ICCV2020](ICCV2020.md)
+[ECCV2020](ECCV2020.md)
